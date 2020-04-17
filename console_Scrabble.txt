@@ -1,0 +1,25 @@
+{A=1, B=3, C=3, D=2, E=1, F=4, G=2, H=4, I=1, J=8, K=5, L=1, M=3, N=1, O=1, P=3, Q=10, R=1, S=1, T=1, U=1, V=4, W=4, X=8, Y=4, Z=10}Value of word qabala is 17
+Value of word qabalah is 21
+Value of word qabalahs is 22
+Value of word qabalas is 18
+Value of word qadi is 14
+Value of word qadis is 15
+Value of word qaid is 14
+Value of word qaids is 15
+Value of word qanat is 14
+Value of word qanats is 15
+Value of word qat is 12
+Value of word qats is 13
+Value of word qi is 11
+Value of word qindar is 16
+Value of word qindarka is 22
+Value of word qindars is 17
+Value of word qintar is 15
+Value of word qintars is 16
+Value of word qis is 12
+Value of word qiviut is 18
+Value of word qiviuts is 19
+Value of word qoph is 18
+Value of word qophs is 19
+Value of word qwerty is 21
+Value of word qwertys is 22
